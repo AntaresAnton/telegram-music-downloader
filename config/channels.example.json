@@ -1,0 +1,9 @@
+{
+  "channels": [
+    {
+      "username": "example_channel",
+      "url": "https://t.me/example_channel",
+      "enabled": true
+    }
+  ]
+}
